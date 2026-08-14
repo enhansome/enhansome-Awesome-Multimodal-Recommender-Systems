@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "description": "Our discussion categorizes existing MRS models into four critical aspects: Feature Extraction, Encoder, Multimodal Fusion, and Loss Function.\nCheck out our survey 📄A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions, which contains a list of papers on multimodal recommender systems.\nIf you find this repository helpful to your work, please kindly star it and cite our survey paper as follows:\n🤗 Contributions to update new resources and articles are very welcome!",
+      "items": [],
+      "title": "🚀 Overview"
+    },
+    {
+      "description": "We release the MRLib: A Continuously Updated Library for Advanced Models for Multimodal Recommendation.\nWe will continuously update MRLib with highly reproducible models from the latest papers on multimodal recommendation.",
+      "items": [],
+      "title": "🔧 MRLib: Multimodal Recommendation Library"
+    },
+    {
+      "description": ":question: denotes cannot find implementation code.",
+      "items": [],
+      "title": "📊 Paper List"
+    },
+    {
+      "description": "We sorted all multimodal recommendation datasets based on scale size.\n",
+      "items": [],
+      "title": "📂 Dataset"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:31:18.939Z",
+    "original_repository": "Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems",
+    "original_repository_sha": "24eab1feb19e1772decac9c62be9d28a77a2bea1",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Recommender-Systems",
+    "enhanced_repository_description": null,
+    "title": "Awesome Multimodal Recommender Systems with stars"
+  }
+}
