@@ -1,7 +1,989 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": ":question: denotes cannot find implementation code.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VBPR",
+          "description": "2016 AAAI link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172316161,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-02-25T19:35:54Z",
+            "owner": "arogers1",
+            "repo": "VBPR",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACF",
+          "description": "2017 WWW link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112159697,
+            "language": "Python",
+            "last_commit": "2017-11-27T07:04:19Z",
+            "owner": "ChenJingyuan91",
+            "repo": "ACF",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JRL",
+          "description": "2017 CIKM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123833592,
+            "language": "Python",
+            "last_commit": "2018-05-01T14:12:09Z",
+            "owner": "QingyaoAi",
+            "repo": "Joint-Representation-Learning-for-Top-N-Recommendation",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DVBPR",
+          "description": "2017 ICDM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122675446,
+            "language": "Python",
+            "last_commit": "2018-10-23T18:00:25Z",
+            "owner": "kang205",
+            "repo": "DVBPR",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VECF",
+          "description": "2019 SIGIR link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169989196,
+            "language": "Python",
+            "last_commit": "2019-02-06T11:22:16Z",
+            "owner": "malizheng",
+            "repo": "VECF",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAML",
+          "description": "2019 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199967127,
+            "language": "Python",
+            "last_commit": "2021-08-15T08:42:44Z",
+            "owner": "liufancs",
+            "repo": "MAML",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMGCN",
+          "description": "2019 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200448911,
+            "language": "Python",
+            "last_commit": "2026-04-06T07:57:51Z",
+            "owner": "iLearn-Lab",
+            "repo": "MM19-MMGCN",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AMR",
+          "description": "2019 TKDE link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142123477,
+            "language": "Python",
+            "last_commit": "2018-11-27T05:28:48Z",
+            "owner": "duxy-me",
+            "repo": "AMR",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MGAT",
+          "description": "2020 I&M link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 231036371,
+            "language": "Python",
+            "last_commit": "2020-12-16T14:04:18Z",
+            "owner": "zltao",
+            "repo": "MGAT",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GRCN",
+          "description": "2020 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 284933496,
+            "language": "Python",
+            "last_commit": "2026-04-06T07:49:14Z",
+            "owner": "iLearn-Lab",
+            "repo": "MM20-GRCN",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MKGAT",
+          "description": "2020 CIKM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 622277605,
+            "language": "Python",
+            "last_commit": "2023-08-22T11:40:38Z",
+            "owner": "QuXiaolong0812",
+            "repo": "mkgcn",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IMRec",
+          "description": "2021 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 387545874,
+            "language": "Python",
+            "last_commit": "2022-02-24T14:20:57Z",
+            "owner": "JiahaoXun",
+            "repo": "IMRec",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PMGT",
+          "description": "2021 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 443951729,
+            "language": "Python",
+            "last_commit": "2022-03-17T13:31:20Z",
+            "owner": "uoo723",
+            "repo": "PMGT",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LATTICE",
+          "description": "2021 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 385510180,
+            "language": "Python",
+            "last_commit": "2024-04-24T09:00:06Z",
+            "owner": "CRIPAC-DIG",
+            "repo": "LATTICE",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MVGAE",
+          "description": "2021 TMM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 391266142,
+            "language": "Python",
+            "last_commit": "2021-07-31T06:12:55Z",
+            "owner": "jing-1",
+            "repo": "MVGAE",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DualGNN",
+          "description": "2021 TMM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 394495576,
+            "language": "Python",
+            "last_commit": "2026-04-08T07:42:19Z",
+            "owner": "iLearn-Lab",
+            "repo": "TMM23-DualGNN",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PAMD",
+          "description": "2022 WWW link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 452204348,
+            "language": null,
+            "last_commit": "2022-09-19T03:33:35Z",
+            "owner": "hantengyue",
+            "repo": "PAMD",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMGCL",
+          "description": "2022 SIGIR link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 579920395,
+            "language": "Python",
+            "last_commit": "2023-03-31T10:13:21Z",
+            "owner": "zxy-ml84",
+            "repo": "MMGCL",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADDVAE",
+          "description": "2022 KDD link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 531453250,
+            "language": "Python",
+            "last_commit": "2022-09-01T09:42:12Z",
+            "owner": "PreferredAI",
+            "repo": "ADDVAE",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EliMRec",
+          "description": "2022 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 509682749,
+            "language": "Python",
+            "last_commit": "2023-12-07T08:47:21Z",
+            "owner": "Xiaohao-Liu",
+            "repo": "EliMRec",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EgoGCN",
+          "description": "2022 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 578094893,
+            "language": "Python",
+            "last_commit": "2023-04-06T02:47:26Z",
+            "owner": "feiyuchen7",
+            "repo": "EgoGCN",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InvRL",
+          "description": "2022 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 513589133,
+            "language": "Python",
+            "last_commit": "2022-10-19T07:56:37Z",
+            "owner": "nickwzk",
+            "repo": "InvRL",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DMRL",
+          "description": "2022 TMM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 430263039,
+            "language": "Python",
+            "last_commit": "2023-12-17T05:39:42Z",
+            "owner": "liufancs",
+            "repo": "DMRL",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLMRec",
+          "description": "2022 TMM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 459083673,
+            "language": "Python",
+            "last_commit": "2022-07-02T13:07:53Z",
+            "owner": "zltao",
+            "repo": "SLMRec",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MICRO",
+          "description": "2022 TKDE link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 425812822,
+            "language": "Python",
+            "last_commit": "2024-04-23T09:04:20Z",
+            "owner": "CRIPAC-DIG",
+            "repo": "MICRO",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BM3",
+          "description": "2023 WWW link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 511729130,
+            "language": "Python",
+            "last_commit": "2023-08-03T01:31:35Z",
+            "owner": "enoche",
+            "repo": "BM3",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMSSL",
+          "description": "2023 WWW link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 599068299,
+            "language": "Python",
+            "last_commit": "2024-06-20T04:29:27Z",
+            "owner": "HKUDS",
+            "repo": "MMSSL",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FREEDOM",
+          "description": "2023 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 565603016,
+            "language": "Python",
+            "last_commit": "2023-11-15T01:54:27Z",
+            "owner": "enoche",
+            "repo": "FREEDOM",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MGCN",
+          "description": "2023 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624418596,
+            "language": "Python",
+            "last_commit": "2025-04-14T03:04:27Z",
+            "owner": "demonph10",
+            "repo": "MGCN",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DRAGON",
+          "description": "2023 ECAI link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 637603430,
+            "language": "Python",
+            "last_commit": "2023-07-28T14:18:16Z",
+            "owner": "hongyurain",
+            "repo": "DRAGON",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MGCL",
+          "description": "2023 TMM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489348949,
+            "language": "Python",
+            "last_commit": "2023-03-20T14:02:35Z",
+            "owner": "hfutmars",
+            "repo": "MGCL",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LGMRec",
+          "description": "2024 AAAI link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 677944861,
+            "language": "Python",
+            "last_commit": "2026-03-09T03:43:48Z",
+            "owner": "georgeguo-cn",
+            "repo": "LGMRec",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLMRec",
+          "description": "2024 WSDM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 708601315,
+            "language": "Python",
+            "last_commit": "2024-06-10T06:39:28Z",
+            "owner": "HKUDS",
+            "repo": "LLMRec",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromptMM",
+          "description": "2024 WWW link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 763466408,
+            "language": "Python",
+            "last_commit": "2024-03-20T05:11:25Z",
+            "owner": "HKUDS",
+            "repo": "PromptMM",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCDRec",
+          "description": "2024 WWW link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 949834029,
+            "language": "Python",
+            "last_commit": "2025-03-17T08:29:42Z",
+            "owner": "Yimeng-yang",
+            "repo": "MCDRec",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DA-MRS",
+          "description": "2024 KDD link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 816085582,
+            "language": "Python",
+            "last_commit": "2026-03-16T06:41:17Z",
+            "owner": "XMUDM",
+            "repo": "DA-MRS",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiffMM",
+          "description": "2024 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 816115701,
+            "language": "Python",
+            "last_commit": "2024-07-21T06:36:38Z",
+            "owner": "HKUDS",
+            "repo": "DiffMM",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOIL",
+          "description": "2024 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 833916543,
+            "language": "Python",
+            "last_commit": "2024-07-26T03:24:22Z",
+            "owner": "TL-UESTC",
+            "repo": "SOIL",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CKD",
+          "description": "2024 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 830326144,
+            "language": "Python",
+            "last_commit": "2025-03-11T15:09:17Z",
+            "owner": "CRIPAC-DIG",
+            "repo": "Balanced-Multimodal-Rec",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GUME",
+          "description": "2024 CIKM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 829850200,
+            "language": "Python",
+            "last_commit": "2024-07-19T11:42:19Z",
+            "owner": "NanGongNingYi",
+            "repo": "GUME",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "POWERec",
+          "description": "2024 INFFUS link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 682830016,
+            "language": "Python",
+            "last_commit": "2024-07-17T06:45:12Z",
+            "owner": "hello-dx",
+            "repo": "POWERec",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DGVAE",
+          "description": "2024 TMM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 301649310,
+            "language": "Python",
+            "last_commit": "2021-08-31T03:03:16Z",
+            "owner": "xiyou3368",
+            "repo": "DGVAE",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MENTOR",
+          "description": "2025 AAAI link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 747711838,
+            "language": "Python",
+            "last_commit": "2025-10-26T08:07:34Z",
+            "owner": "Jinfeng-Xu",
+            "repo": "MENTOR",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PGL",
+          "description": "2025 AAAI link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 901174440,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-16T01:41:36Z",
+            "owner": "demonph10",
+            "repo": "PGL",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeFA",
+          "description": "2025 AAAI link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 808097410,
+            "language": "Python",
+            "last_commit": "2025-02-21T05:07:41Z",
+            "owner": "fqldom",
+            "repo": "BeFA",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMDL",
+          "description": "2025 TOIS link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 880114278,
+            "language": "Python",
+            "last_commit": "2025-12-29T15:27:56Z",
+            "owner": "ruiliu2020",
+            "repo": "CMDL",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMORE",
+          "description": "2025 WSDM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 897768703,
+            "language": "Python",
+            "last_commit": "2024-12-22T12:09:15Z",
+            "owner": "kennethorq",
+            "repo": "SMORE",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guider",
+          "description": "2025 WSDM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 968623757,
+            "language": "Python",
+            "last_commit": "2025-10-14T14:09:42Z",
+            "owner": "Neon-Jing",
+            "repo": "Guider",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoDiCF",
+          "description": "2025 WWW link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 921692238,
+            "language": "Python",
+            "last_commit": "2026-03-26T04:35:03Z",
+            "owner": "JinLi-i",
+            "repo": "MoDiCF",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COHESION",
+          "description": "2025 SIGIR link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 788884355,
+            "language": "Python",
+            "last_commit": "2026-03-12T12:01:35Z",
+            "owner": "Jinfeng-Xu",
+            "repo": "COHESION",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DGMRec",
+          "description": "2025 SIGIR link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 915918959,
+            "language": "Python",
+            "last_commit": "2026-08-01T16:48:44Z",
+            "owner": "ptkjw1997",
+            "repo": "DGMRec",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MDVT",
+          "description": "2025 KDD link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 917177722,
+            "language": "Python",
+            "last_commit": "2025-12-02T06:47:01Z",
+            "owner": "Jinfeng-Xu",
+            "repo": "MDVT",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HPMRec",
+          "description": "2025 CIKM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1040044132,
+            "language": "Python",
+            "last_commit": "2026-04-09T05:35:46Z",
+            "owner": "Zheyu-Chen",
+            "repo": "HPMRec",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MambaRec",
+          "description": "2025 CIKM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 984689697,
+            "language": "Python",
+            "last_commit": "2025-10-01T07:17:15Z",
+            "owner": "rkl71",
+            "repo": "MambaRec",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Study4LLMRec",
+          "description": "2025 RecSys link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 978212734,
+            "language": "Python",
+            "last_commit": "2025-07-24T16:04:54Z",
+            "owner": "nickolat",
+            "repo": "LLMRec_reproducibility",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSR",
+          "description": "2025 NeurIPS link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1124333694,
+            "language": "Python",
+            "last_commit": "2025-12-28T21:15:37Z",
+            "owner": "llm-ml",
+            "repo": "SSR",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VI-MMRec",
+          "description": "2026 KDD link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 960086912,
+            "language": "Python",
+            "last_commit": "2026-04-25T01:23:23Z",
+            "owner": "Jinfeng-Xu",
+            "repo": "VI-MMRec",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LOBSTER",
+          "description": "2026 INFFUS link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 718671490,
+            "language": "Python",
+            "last_commit": "2026-04-25T01:20:22Z",
+            "owner": "Jinfeng-Xu",
+            "repo": "LOBSTER",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLGCL+",
+          "description": "2026 TORS link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1188365441,
+            "language": "Python",
+            "last_commit": "2026-04-03T10:19:50Z",
+            "owner": "Jinfeng-Xu",
+            "repo": "NLGCL-Plus",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SiMGR",
+          "description": "2026 AAAI link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1025271359,
+            "language": "Python",
+            "last_commit": "2025-07-24T02:34:09Z",
+            "owner": "DRec4AI",
+            "repo": "SiMGR2025",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M2VAE",
+          "description": "2026 AAAI link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1095643513,
+            "language": "Python",
+            "last_commit": "2025-11-13T10:29:47Z",
+            "owner": "chuanhe1999",
+            "repo": "M2VAE",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSCA",
+          "description": "2026 WWW link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1216051100,
+            "language": "Python",
+            "last_commit": "2026-07-31T16:13:45Z",
+            "owner": "recomall",
+            "repo": "MSCA",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HSD",
+          "description": "2026 TMM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1000289743,
+            "language": "Python",
+            "last_commit": "2026-04-08T03:17:00Z",
+            "owner": "Tuo97",
+            "repo": "HSD",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SG-URInit",
+          "description": "2026 SIGIR link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1025780686,
+            "language": "Python",
+            "last_commit": "2026-04-25T01:30:38Z",
+            "owner": "Jinfeng-Xu",
+            "repo": "SG-URInit",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PNGRec",
+          "description": "2026 SIGIR link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1021468160,
+            "language": "Python",
+            "last_commit": "2026-07-28T09:24:27Z",
+            "owner": "orangeheyue",
+            "repo": "PNGRec",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "📊 Paper List"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:39:01.932Z",
+    "last_updated": "2026-08-24T14:28:13.672Z",
     "original_repository": "Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems",
     "original_repository_id": 908847810,
     "original_repository_sha": "24eab1feb19e1772decac9c62be9d28a77a2bea1",
