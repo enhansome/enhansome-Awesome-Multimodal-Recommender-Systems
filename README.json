@@ -510,7 +510,7 @@
             "last_commit": "2024-03-20T05:11:25Z",
             "owner": "HKUDS",
             "repo": "PromptMM",
-            "stars": 51
+            "stars": 52
           }
         },
         {
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:28:13.672Z",
+    "last_updated": "2026-08-25T02:32:38.735Z",
     "original_repository": "Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems",
     "original_repository_id": 908847810,
     "original_repository_sha": "24eab1feb19e1772decac9c62be9d28a77a2bea1",
