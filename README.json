@@ -960,7 +960,7 @@
             "last_commit": "2026-04-25T01:30:38Z",
             "owner": "Jinfeng-Xu",
             "repo": "SG-URInit",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -983,9 +983,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:40:20.425Z",
-    "original_repository": "Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems",
-    "original_repository_id": 908847810,
+    "last_updated": "2026-08-27T11:13:46.215Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 908847810,
+      "language": null,
+      "last_commit": "2026-08-07T20:59:17Z",
+      "owner": "Jinfeng-Xu",
+      "repo": "Awesome-Multimodal-Recommender-Systems",
+      "stars": 323
+    },
     "original_repository_sha": "24eab1feb19e1772decac9c62be9d28a77a2bea1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Recommender-Systems",
     "enhanced_repository_description": null,
