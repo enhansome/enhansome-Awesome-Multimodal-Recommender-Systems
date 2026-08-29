@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Visual Bayesian Personalized Ranking (VBPR) using Numpy",
+            "homepage": null,
             "id": 172316161,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-02-25T19:35:54Z",
+            "open_issues": 0,
             "owner": "arogers1",
             "repo": "VBPR",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Attentive collaborative filtering: Multimedia recommendation with item-and component-level attention",
+            "homepage": null,
             "id": 112159697,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-11-27T07:04:19Z",
+            "open_issues": 4,
             "owner": "ChenJingyuan91",
             "repo": "ACF",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of the Joint Representation Learning Model (JRL) for product recommendation based on heterogeneous information sources",
+            "homepage": null,
             "id": 123833592,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-05-01T14:12:09Z",
+            "open_issues": 0,
             "owner": "QingyaoAi",
             "repo": "Joint-Representation-Learning-for-Top-N-Recommendation",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -58,12 +73,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personalized Fashion Recommendation and Generation",
+            "homepage": null,
             "id": 122675446,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-23T18:00:25Z",
+            "open_issues": 4,
             "owner": "kang205",
             "repo": "DVBPR",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "fashion",
+              "generative-adversarial-network",
+              "recommender-systems"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -74,12 +98,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Personalized Fashion Recommendation with Visual Explanations based on Multi-model Attention Network\"",
+            "homepage": null,
             "id": 169989196,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-02-06T11:22:16Z",
+            "open_issues": 0,
             "owner": "malizheng",
             "repo": "VECF",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -90,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 199967127,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-15T08:42:44Z",
+            "open_issues": 1,
             "owner": "liufancs",
             "repo": "MAML",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -106,12 +140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACM MM 2019] Official Implementation for MMGCN: Multi-modal Graph Convolution Network forPersonalized Recommendation of Micro-video",
+            "homepage": null,
             "id": 200448911,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-06T07:57:51Z",
+            "open_issues": 0,
             "owner": "iLearn-Lab",
             "repo": "MM19-MMGCN",
-            "stars": 328
+            "stars": 328,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -122,12 +161,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is our official implementation for the paper:  Jinhui Tang, Xiaoyu Du, Xiangnan He, Fajie Yuan, Qi Tian, and Tat-Seng Chua, Adversarial Training Towards Robust Multimedia Recommender System.",
+            "homepage": "https://github.com/duxy-me/AMR",
             "id": 142123477,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-11-27T05:28:48Z",
+            "open_issues": 3,
             "owner": "duxy-me",
             "repo": "AMR",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "adversarial-machine-learning",
+              "multimedia",
+              "recommender-system"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -138,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project is the source code for Multimodal Graph Attention Network(MGAT). The source code will be available on the acceptance of the paper.",
+            "homepage": null,
             "id": 231036371,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-16T14:04:18Z",
+            "open_issues": 5,
             "owner": "zltao",
             "repo": "MGAT",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -154,12 +207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACM MM 2020] Official Implementation forGraph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback",
+            "homepage": null,
             "id": 284933496,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-06T07:49:14Z",
+            "open_issues": 0,
             "owner": "iLearn-Lab",
             "repo": "MM20-GRCN",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -170,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-modal Knowledge Graph Convolutional Networks for Music Recommendation System",
+            "homepage": null,
             "id": 622277605,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-22T11:40:38Z",
+            "open_issues": 2,
             "owner": "QuXiaolong0812",
             "repo": "mkgcn",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -186,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The dataset for paper \"Why Do We Click: Visual Impression-aware News Recommendation\", ACM MM 2021",
+            "homepage": null,
             "id": 387545874,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-02-24T14:20:57Z",
+            "open_issues": 2,
             "owner": "JiahaoXun",
             "repo": "IMRec",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -202,12 +270,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of \"Pre-training Graph Transformer with Multimodal Side Information for Recommendation\"",
+            "homepage": null,
             "id": 443951729,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-17T13:31:20Z",
+            "open_issues": 1,
             "owner": "uoo723",
             "repo": "PMGT",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "deep-learning",
+              "graph-transformer",
+              "machine-learning",
+              "multi-modal-learning",
+              "python",
+              "pytorch",
+              "recommendation"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -218,12 +299,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACMMM 2021] PyTorch implementation for \"Mining Latent Structures for Multimedia Recommendation\"",
+            "homepage": null,
             "id": 385510180,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-24T09:00:06Z",
+            "open_issues": 0,
             "owner": "CRIPAC-DIG",
             "repo": "LATTICE",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "deep-learning",
+              "graph-structure-learning",
+              "multimedia-recommendation",
+              "personalized-recommendation",
+              "pytorch",
+              "recommender-systems"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -234,12 +327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 391266142,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-07-31T06:12:55Z",
+            "open_issues": 2,
             "owner": "jing-1",
             "repo": "MVGAE",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -250,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DualGNN: Dual Graph Neural Network for Micro-video Recommendation",
+            "homepage": null,
             "id": 394495576,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-08T07:42:19Z",
+            "open_issues": 0,
             "owner": "iLearn-Lab",
             "repo": "TMM23-DualGNN",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -266,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 452204348,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-19T03:33:35Z",
+            "open_issues": 1,
             "owner": "hantengyue",
             "repo": "PAMD",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -282,12 +390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code of our MMGCL",
+            "homepage": null,
             "id": 579920395,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-31T10:13:21Z",
+            "open_issues": 2,
             "owner": "zxy-ml84",
             "repo": "MMGCL",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -298,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 531453250,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-01T09:42:12Z",
+            "open_issues": 0,
             "owner": "PreferredAI",
             "repo": "ADDVAE",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -314,12 +432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The implementation of paper \"EliMRec: Eliminating single-modal bias in multimedia recommendation\", MM'22.",
+            "homepage": null,
             "id": 509682749,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-07T08:47:21Z",
+            "open_issues": 1,
             "owner": "Xiaohao-Liu",
             "repo": "EliMRec",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -330,12 +453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation for the paper: Breaking Isolation: Multimodal Graph Fusion for Multimedia Recommendation by Edge-wise Modulation, ACM Mulimedia 2022.",
+            "homepage": null,
             "id": 578094893,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-06T02:47:26Z",
+            "open_issues": 0,
             "owner": "feiyuchen7",
             "repo": "EgoGCN",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -346,12 +474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation of InvRL",
+            "homepage": null,
             "id": 513589133,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-19T07:56:37Z",
+            "open_issues": 0,
             "owner": "nickwzk",
             "repo": "InvRL",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -362,12 +495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 430263039,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-17T05:39:42Z",
+            "open_issues": 3,
             "owner": "liufancs",
             "repo": "DMRL",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -378,12 +516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 459083673,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-07-02T13:07:53Z",
+            "open_issues": 3,
             "owner": "zltao",
             "repo": "SLMRec",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -394,12 +537,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 425812822,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-23T09:04:20Z",
+            "open_issues": 1,
             "owner": "CRIPAC-DIG",
             "repo": "MICRO",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "collaborative-filtering",
+              "contrastive-learning",
+              "graph-convolutions",
+              "multimedia-recommendation",
+              "multiple-modalities"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -410,12 +564,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation for \"Bootstrap Latent Representations for Multi-modal Recommendation\"-WWW'23",
+            "homepage": null,
             "id": 511729130,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-03T01:31:35Z",
+            "open_issues": 0,
             "owner": "enoche",
             "repo": "BM3",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "boostrapping",
+              "multi-modal",
+              "recommender-system",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -426,12 +590,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WWW'2023] \"MMSSL: Multi-Modal Self-Supervised Learning for Recommendation\"",
+            "homepage": "https://arxiv.org/abs/2302.10632",
             "id": 599068299,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-20T04:29:27Z",
+            "open_issues": 8,
             "owner": "HKUDS",
             "repo": "MMSSL",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "graph-neural-netowrks",
+              "multi-modal-recommendation",
+              "multimedia-recommendation",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -442,12 +616,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACM MM'23: A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation",
+            "homepage": null,
             "id": 565603016,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-15T01:54:27Z",
+            "open_issues": 1,
             "owner": "enoche",
             "repo": "FREEDOM",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "graph-structure-learning",
+              "multimodal",
+              "recommender-system"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -458,12 +641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-View Graph Convolutional Network for Multimedia Recommendation",
+            "homepage": null,
             "id": 624418596,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-14T03:04:27Z",
+            "open_issues": 0,
             "owner": "demonph10",
             "repo": "MGCN",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -474,12 +662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 637603430,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-28T14:18:16Z",
+            "open_issues": 1,
             "owner": "hongyurain",
             "repo": "DRAGON",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -490,12 +683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The complete codes of the paper \"Multimodal Graph Contrastive Learning for Recommendation\"",
+            "homepage": null,
             "id": 489348949,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-20T14:02:35Z",
+            "open_issues": 0,
             "owner": "hfutmars",
             "repo": "MGCL",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -506,12 +704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2024] Official Pytorch Implementation for \"LGMRec: Local and Global Graph Learning for Multimodal Recommendation\".",
+            "homepage": null,
             "id": 677944861,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-09T03:43:48Z",
+            "open_issues": 3,
             "owner": "georgeguo-cn",
             "repo": "LGMRec",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -522,12 +725,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WSDM'2024 Oral] \"LLMRec: Large Language Models with Graph Augmentation for Recommendation\"",
+            "homepage": "https://arxiv.org/abs/2311.00423",
             "id": 708601315,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-10T06:39:28Z",
+            "open_issues": 16,
             "owner": "HKUDS",
             "repo": "LLMRec",
-            "stars": 538
+            "stars": 538,
+            "topics": [
+              "colloborative-filtering",
+              "content-based-recommendation",
+              "data-augmentation-strategies",
+              "graph-augmentation",
+              "graph-learning",
+              "multi-modal-recommendation",
+              "recommendation-system",
+              "recommendation-with-side-information"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -538,12 +755,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WWW'2024] \"PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning\"",
+            "homepage": "https://arxiv.org/abs/2402.17188",
             "id": 763466408,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-20T05:11:25Z",
+            "open_issues": 1,
             "owner": "HKUDS",
             "repo": "PromptMM",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "collaborative-filtering",
+              "knowledge-distillation",
+              "multi-modal-recommendation",
+              "multimedia-recommendation",
+              "prompt-tuning",
+              "recommender-system"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -554,12 +783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Multimodal Conditioned Diffusion Model for Recommendation\"-WWW'23 workshop",
+            "homepage": null,
             "id": 949834029,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-17T08:29:42Z",
+            "open_issues": 1,
             "owner": "Yimeng-yang",
             "repo": "MCDRec",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -570,12 +804,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 816085582,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-16T06:41:17Z",
+            "open_issues": 0,
             "owner": "XMUDM",
             "repo": "DA-MRS",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -586,12 +825,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACM MM'2024]\"DiffMM: Multi-Modal Diffusion Model for Recommendation\"",
+            "homepage": "https://arxiv.org/abs/2406.11781",
             "id": 816115701,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-21T06:36:38Z",
+            "open_issues": 0,
             "owner": "HKUDS",
             "repo": "DiffMM",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "diffusion-models",
+              "generative-diffusion-model",
+              "graph-neural-networks",
+              "multi-modal-recommendation",
+              "multimedia-recommendation",
+              "recommender-systems",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -602,12 +854,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The pytorch implementation of Contrastive Second-Order Interest Learning for Multimodal Recommendation (ACM MM'24)",
+            "homepage": null,
             "id": 833916543,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-26T03:24:22Z",
+            "open_issues": 1,
             "owner": "TL-UESTC",
             "repo": "SOIL",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -618,12 +875,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 830326144,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-11T15:09:17Z",
+            "open_issues": 1,
             "owner": "CRIPAC-DIG",
             "repo": "Balanced-Multimodal-Rec",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -634,12 +896,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 829850200,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-19T11:42:19Z",
+            "open_issues": 1,
             "owner": "NanGongNingYi",
             "repo": "GUME",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -650,12 +917,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pytorch implementation for Prompt-based and Weak-modality Enhanced Multimodal Recommendation",
+            "homepage": null,
             "id": 682830016,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-17T06:45:12Z",
+            "open_issues": 1,
             "owner": "hello-dx",
             "repo": "POWERec",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -666,12 +938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 301649310,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-31T03:03:16Z",
+            "open_issues": 1,
             "owner": "xiyou3368",
             "repo": "DGVAE",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -682,12 +959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI'25] MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation",
+            "homepage": "https://ojs.aaai.org/index.php/AAAI/article/view/33408/35563",
             "id": 747711838,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-26T08:07:34Z",
+            "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "MENTOR",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -698,12 +980,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 901174440,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-09-16T01:41:36Z",
+            "open_issues": 0,
             "owner": "demonph10",
             "repo": "PGL",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -714,12 +1001,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BeFA: A General Behavior-driven Feature Adapter for Multimedia Recommendation",
+            "homepage": null,
             "id": 808097410,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-21T05:07:41Z",
+            "open_issues": 1,
             "owner": "fqldom",
             "repo": "BeFA",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -730,12 +1022,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 880114278,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-29T15:27:56Z",
+            "open_issues": 3,
             "owner": "ruiliu2020",
             "repo": "CMDL",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -746,12 +1043,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WSDM 2025] Source code for \"Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation\".",
+            "homepage": null,
             "id": 897768703,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-22T12:09:15Z",
+            "open_issues": 0,
             "owner": "kennethorq",
             "repo": "SMORE",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -762,12 +1064,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WSDM 2025] Source code for \"Teach Me How to Denoise: A Universal Framework for Denoising Multi-modal Recommender Systems via Guided Calibration\".",
+            "homepage": null,
             "id": 968623757,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-14T14:09:42Z",
+            "open_issues": 0,
             "owner": "Neon-Jing",
             "repo": "Guider",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -778,12 +1085,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code of [WWW 2025] MoDiCF",
+            "homepage": null,
             "id": 921692238,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-26T04:35:03Z",
+            "open_issues": 2,
             "owner": "JinLi-i",
             "repo": "MoDiCF",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -794,12 +1106,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[SIGIR'25] COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation",
+            "homepage": "https://arxiv.org/pdf/2504.04452",
             "id": 788884355,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-12T12:01:35Z",
+            "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "COHESION",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -810,12 +1127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Missing Modality Generation for Recommendaton",
+            "homepage": null,
             "id": 915918959,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-01T16:48:44Z",
+            "open_issues": 3,
             "owner": "ptkjw1997",
             "repo": "DGMRec",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -826,12 +1148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[KDD'25] MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets",
+            "homepage": "https://arxiv.org/pdf/2505.16665",
             "id": 917177722,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-02T06:47:01Z",
+            "open_issues": 1,
             "owner": "Jinfeng-Xu",
             "repo": "MDVT",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -842,12 +1169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CIKM'25] Hypercomplex Prompt-aware Multimodal Recommendation",
+            "homepage": null,
             "id": 1040044132,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-09T05:35:46Z",
+            "open_issues": 0,
             "owner": "Zheyu-Chen",
             "repo": "HPMRec",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -858,12 +1190,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CIKM 2025] Source code for \"Modality Alignment with Multi-scale Bilateral Attention for Multimodal Recommendation\".",
+            "homepage": "https://dl.acm.org/doi/10.1145/3746252.3761222",
             "id": 984689697,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-01T07:17:15Z",
+            "open_issues": 0,
             "owner": "rkl71",
             "repo": "MambaRec",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "attention-mechanisms",
+              "deep-learning",
+              "modality-alignment",
+              "multimodal-recommendation",
+              "recommendation-system"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -874,12 +1217,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reproducibility and benchmarking codes for the LLMRec paper.",
+            "homepage": null,
             "id": 978212734,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-24T16:04:54Z",
+            "open_issues": 0,
             "owner": "nickolat",
             "repo": "LLMRec_reproducibility",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "large-language-models",
+              "multimodal-recommendation",
+              "recommender-systems"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -890,12 +1242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1124333694,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-28T21:15:37Z",
+            "open_issues": 0,
             "owner": "llm-ml",
             "repo": "SSR",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -906,12 +1263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[KDD'26] VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation",
+            "homepage": "https://arxiv.org/pdf/2512.08702",
             "id": 960086912,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-25T01:23:23Z",
+            "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "VI-MMRec",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -922,12 +1284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Information Fusion] LOBSTER: Bilateral Global Semantic Enhancement for Multimedia Recommendation",
+            "homepage": "https://www.sciencedirect.com/science/article/pii/S1566253525008401",
             "id": 718671490,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-25T01:20:22Z",
+            "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "LOBSTER",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -938,12 +1305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TORS'26] NLGCL+: Naturally Existing Neighbour Layers Graph Contrastive Learning with Adaptive Sample Weighting for Multimodal Recommendation",
+            "homepage": "https://dl.acm.org/doi/pdf/10.1145/3806231",
             "id": 1188365441,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-03T10:19:50Z",
+            "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "NLGCL-Plus",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -954,12 +1326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1025271359,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-07-24T02:34:09Z",
+            "open_issues": 2,
             "owner": "DRec4AI",
             "repo": "SiMGR2025",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -970,12 +1347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1095643513,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-13T10:29:47Z",
+            "open_issues": 1,
             "owner": "chuanhe1999",
             "repo": "M2VAE",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -986,12 +1368,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WWW 2026] \"Multi-view Semantic Contrastive Alignment for Multimodal Recommendation\"",
+            "homepage": null,
             "id": 1216051100,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-31T16:13:45Z",
+            "open_issues": 0,
             "owner": "recomall",
             "repo": "MSCA",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "contrastive-learning",
+              "multimedia-recommendation",
+              "multimodal-recommendation",
+              "recommender-system",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -1002,12 +1395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TMM 2026]\"Hierarchy-Aware Multimodal Distillation for Recommendation\"",
+            "homepage": null,
             "id": 1000289743,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-08T03:17:00Z",
+            "open_issues": 0,
             "owner": "Tuo97",
             "repo": "HSD",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -1018,12 +1416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[SIGIR'26] Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation",
+            "homepage": "https://arxiv.org/pdf/2604.14839",
             "id": 1025780686,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-25T01:30:38Z",
+            "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "SG-URInit",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         },
@@ -1034,12 +1437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Popular-Niche Wavelet Graph Learning for Multimodal Recommendation",
+            "homepage": null,
             "id": 1021468160,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-28T09:24:27Z",
+            "open_issues": 0,
             "owner": "orangeheyue",
             "repo": "PNGRec",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
         }
@@ -1048,15 +1456,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:57:14.638Z",
+    "last_updated": "2026-08-29T04:51:07.730Z",
     "original_repository_info": {
       "archived": false,
+      "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
+      "homepage": "https://ieeexplore.ieee.org/abstract/document/11417257/",
       "id": 908847810,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-07T20:59:17Z",
+      "open_issues": 0,
       "owner": "Jinfeng-Xu",
       "repo": "Awesome-Multimodal-Recommender-Systems",
-      "stars": 323
+      "stars": 323,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "multimodal",
+        "recommendation"
+      ]
     },
     "original_repository_sha": "24eab1feb19e1772decac9c62be9d28a77a2bea1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Recommender-Systems",
