@@ -258,7 +258,7 @@
             "open_issues": 2,
             "owner": "JiahaoXun",
             "repo": "IMRec",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -834,7 +834,7 @@
             "open_issues": 0,
             "owner": "HKUDS",
             "repo": "DiffMM",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "diffusion-models",
               "generative-diffusion-model",
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T05:49:30.189Z",
+    "last_updated": "2026-09-06T06:00:51.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
