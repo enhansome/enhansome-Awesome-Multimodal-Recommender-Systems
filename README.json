@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T06:02:30.972Z",
+    "last_updated": "2026-09-11T06:04:49.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
@@ -1468,7 +1468,7 @@
       "open_issues": 0,
       "owner": "Jinfeng-Xu",
       "repo": "Awesome-Multimodal-Recommender-Systems",
-      "stars": 324,
+      "stars": 323,
       "topics": [
         "awesome",
         "awesome-list",
