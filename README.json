@@ -1251,7 +1251,7 @@
             "open_issues": 0,
             "owner": "llm-ml",
             "repo": "SSR",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T06:23:40.950Z",
+    "last_updated": "2026-09-15T06:12:10.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
