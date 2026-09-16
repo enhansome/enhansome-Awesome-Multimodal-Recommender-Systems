@@ -573,7 +573,7 @@
             "open_issues": 0,
             "owner": "enoche",
             "repo": "BM3",
-            "stars": 68,
+            "stars": 67,
             "topics": [
               "boostrapping",
               "multi-modal",
@@ -599,7 +599,7 @@
             "open_issues": 8,
             "owner": "HKUDS",
             "repo": "MMSSL",
-            "stars": 226,
+            "stars": 225,
             "topics": [
               "graph-neural-netowrks",
               "multi-modal-recommendation",
@@ -713,7 +713,7 @@
             "open_issues": 3,
             "owner": "georgeguo-cn",
             "repo": "LGMRec",
-            "stars": 52,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -734,7 +734,7 @@
             "open_issues": 16,
             "owner": "HKUDS",
             "repo": "LLMRec",
-            "stars": 538,
+            "stars": 537,
             "topics": [
               "colloborative-filtering",
               "content-based-recommendation",
@@ -764,7 +764,7 @@
             "open_issues": 1,
             "owner": "HKUDS",
             "repo": "PromptMM",
-            "stars": 53,
+            "stars": 52,
             "topics": [
               "collaborative-filtering",
               "knowledge-distillation",
@@ -813,7 +813,7 @@
             "open_issues": 0,
             "owner": "XMUDM",
             "repo": "DA-MRS",
-            "stars": 23,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1356,7 +1356,7 @@
             "open_issues": 1,
             "owner": "chuanhe1999",
             "repo": "M2VAE",
-            "stars": 1,
+            "stars": 0,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1377,7 +1377,7 @@
             "open_issues": 0,
             "owner": "recomall",
             "repo": "MSCA",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "contrastive-learning",
               "multimedia-recommendation",
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:12:10.422Z",
+    "last_updated": "2026-09-16T06:06:55.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
