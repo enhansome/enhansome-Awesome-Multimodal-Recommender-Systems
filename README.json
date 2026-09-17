@@ -1446,7 +1446,7 @@
             "open_issues": 0,
             "owner": "orangeheyue",
             "repo": "PNGRec",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T06:06:55.448Z",
+    "last_updated": "2026-09-17T06:10:59.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",

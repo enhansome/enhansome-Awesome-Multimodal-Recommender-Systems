@@ -141,7 +141,7 @@ We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-L
 | HSD          | 2026 | TMM         | [link](https://ieeexplore.ieee.org/abstract/document/11344765/)                                                                                                                                                                                                       | [code](https://github.com/Tuo97/HSD) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2026-04-08                                                         |
 | SG-URInit    | 2026 | SIGIR       | [link](https://arxiv.org/pdf/2604.14839)                                                                                                                                                                                                                              | [code](https://github.com/Jinfeng-Xu/SG-URInit) ⭐ 6 \| 🐛 0 \| 🌐 Python \| 📅 2026-04-25                                              |
 | GRE-MC       | 2026 | SIGIR       | [link](https://arxiv.org/pdf/2605.00670)                                                                                                                                                                                                                              | :question:                                                                                                                             |
-| PNGRec       | 2026 | SIGIR       | [link](https://dl.acm.org/doi/abs/10.1145/3805712.3809608)                                                                                                                                                                                                            | [code](https://github.com/orangeheyue/PNGRec) ⭐ 3 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-28                                                |
+| PNGRec       | 2026 | SIGIR       | [link](https://dl.acm.org/doi/abs/10.1145/3805712.3809608)                                                                                                                                                                                                            | [code](https://github.com/orangeheyue/PNGRec) ⭐ 4 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-28                                                |
 | DIGEST       | 2026 | SIGIR       | [link](https://dl.acm.org/doi/abs/10.1145/3805712.3809642)                                                                                                                                                                                                            | :question:                                                                                                                             |
 
 ## 📂 Dataset
@@ -171,4 +171,4 @@ We sorted all multimodal recommendation datasets based on scale size.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
