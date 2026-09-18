@@ -599,7 +599,7 @@
             "open_issues": 8,
             "owner": "HKUDS",
             "repo": "MMSSL",
-            "stars": 225,
+            "stars": 226,
             "topics": [
               "graph-neural-netowrks",
               "multi-modal-recommendation",
@@ -834,7 +834,7 @@
             "open_issues": 0,
             "owner": "HKUDS",
             "repo": "DiffMM",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "diffusion-models",
               "generative-diffusion-model",
@@ -989,7 +989,7 @@
             "open_issues": 0,
             "owner": "demonph10",
             "repo": "PGL",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:10:59.640Z",
+    "last_updated": "2026-09-18T05:59:43.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
