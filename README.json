@@ -599,7 +599,7 @@
             "open_issues": 8,
             "owner": "HKUDS",
             "repo": "MMSSL",
-            "stars": 226,
+            "stars": 225,
             "topics": [
               "graph-neural-netowrks",
               "multi-modal-recommendation",
@@ -734,7 +734,7 @@
             "open_issues": 16,
             "owner": "HKUDS",
             "repo": "LLMRec",
-            "stars": 537,
+            "stars": 536,
             "topics": [
               "colloborative-filtering",
               "content-based-recommendation",
@@ -764,7 +764,7 @@
             "open_issues": 1,
             "owner": "HKUDS",
             "repo": "PromptMM",
-            "stars": 52,
+            "stars": 51,
             "topics": [
               "collaborative-filtering",
               "knowledge-distillation",
@@ -834,7 +834,7 @@
             "open_issues": 0,
             "owner": "HKUDS",
             "repo": "DiffMM",
-            "stars": 106,
+            "stars": 105,
             "topics": [
               "diffusion-models",
               "generative-diffusion-model",
@@ -1136,7 +1136,7 @@
             "open_issues": 3,
             "owner": "ptkjw1997",
             "repo": "DGMRec",
-            "stars": 38,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T05:59:43.607Z",
+    "last_updated": "2026-09-19T05:58:19.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
