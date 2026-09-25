@@ -107,7 +107,7 @@
             "open_issues": 0,
             "owner": "malizheng",
             "repo": "VECF",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T06:13:23.245Z",
+    "last_updated": "2026-09-25T06:11:23.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
