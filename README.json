@@ -734,7 +734,7 @@
             "open_issues": 16,
             "owner": "HKUDS",
             "repo": "LLMRec",
-            "stars": 536,
+            "stars": 534,
             "topics": [
               "colloborative-filtering",
               "content-based-recommendation",
@@ -1132,7 +1132,7 @@
             "id": 915918959,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-01T16:48:44Z",
+            "last_commit": "2026-09-29T06:51:44Z",
             "open_issues": 3,
             "owner": "ptkjw1997",
             "repo": "DGMRec",
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T07:01:26.957Z",
+    "last_updated": "2026-09-29T06:59:43.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
