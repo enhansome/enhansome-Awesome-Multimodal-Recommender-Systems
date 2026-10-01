@@ -734,7 +734,7 @@
             "open_issues": 16,
             "owner": "HKUDS",
             "repo": "LLMRec",
-            "stars": 534,
+            "stars": 533,
             "topics": [
               "colloborative-filtering",
               "content-based-recommendation",
@@ -834,7 +834,7 @@
             "open_issues": 0,
             "owner": "HKUDS",
             "repo": "DiffMM",
-            "stars": 105,
+            "stars": 104,
             "topics": [
               "diffusion-models",
               "generative-diffusion-model",
@@ -1132,7 +1132,7 @@
             "id": 915918959,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-30T03:21:49Z",
+            "last_commit": "2026-09-30T09:46:27Z",
             "open_issues": 3,
             "owner": "ptkjw1997",
             "repo": "DGMRec",
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T06:48:42.680Z",
+    "last_updated": "2026-10-01T07:12:59.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
