@@ -834,7 +834,7 @@
             "open_issues": 0,
             "owner": "HKUDS",
             "repo": "DiffMM",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "diffusion-models",
               "generative-diffusion-model",
@@ -1335,7 +1335,7 @@
             "open_issues": 2,
             "owner": "DRec4AI",
             "repo": "SiMGR2025",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T06:36:29.481Z",
+    "last_updated": "2026-10-04T07:00:14.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
@@ -1468,7 +1468,7 @@
       "open_issues": 0,
       "owner": "Jinfeng-Xu",
       "repo": "Awesome-Multimodal-Recommender-Systems",
-      "stars": 334,
+      "stars": 337,
       "topics": [
         "awesome",
         "awesome-list",
