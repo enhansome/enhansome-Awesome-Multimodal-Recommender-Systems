@@ -1048,7 +1048,7 @@
             "id": 897768703,
             "language": "Python",
             "license": null,
-            "last_commit": "2024-12-22T12:09:15Z",
+            "last_commit": "2026-10-04T07:02:02Z",
             "open_issues": 0,
             "owner": "kennethorq",
             "repo": "SMORE",
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T07:00:14.346Z",
+    "last_updated": "2026-10-05T07:09:22.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
@@ -1468,7 +1468,7 @@
       "open_issues": 0,
       "owner": "Jinfeng-Xu",
       "repo": "Awesome-Multimodal-Recommender-Systems",
-      "stars": 337,
+      "stars": 345,
       "topics": [
         "awesome",
         "awesome-list",
