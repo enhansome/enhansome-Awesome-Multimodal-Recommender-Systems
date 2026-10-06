@@ -82,7 +82,7 @@
             "open_issues": 4,
             "owner": "kang205",
             "repo": "DVBPR",
-            "stars": 196,
+            "stars": 195,
             "topics": [
               "fashion",
               "generative-adversarial-network",
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T07:09:22.733Z",
+    "last_updated": "2026-10-06T07:37:20.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
@@ -1468,7 +1468,7 @@
       "open_issues": 0,
       "owner": "Jinfeng-Xu",
       "repo": "Awesome-Multimodal-Recommender-Systems",
-      "stars": 345,
+      "stars": 352,
       "topics": [
         "awesome",
         "awesome-list",

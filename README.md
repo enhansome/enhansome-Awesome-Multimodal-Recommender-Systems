@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="image/logo.png" alt="" width="64" style="vertical-align: middle;">&nbsp; A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions</h1>
 
-> 📢📢📢  For many works, the reproduction results deviate significantly from what is reported in the papers. We will keep updating [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 263 | 🐛 0 | 🌐 Python | 📅 2026-05-08 with works that show satisfactory reproducibility. If you have a work you'd like to see included in [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 263 | 🐛 0 | 🌐 Python | 📅 2026-05-08, please contribute!
+> 📢📢📢  For many works, the reproduction results deviate significantly from what is reported in the papers. We will keep updating [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 270 | 🐛 0 | 🌐 Python | 📅 2026-05-08 with works that show satisfactory reproducibility. If you have a work you'd like to see included in [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 270 | 🐛 0 | 🌐 Python | 📅 2026-05-08, please contribute!
 
 ## 🚀 Overview
 
@@ -33,7 +33,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 
 * \[2026.08]🎯\[Update]: Add papers related to **SIGIR 2026**.
 * \[2026.05]🎯\[Update]: Add papers related to **SIGIR 2026** and **TMM 2026**.
-* \[2026.04]🎯\[Update]: We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 263 | 🐛 0 | 🌐 Python | 📅 2026-05-08 as a comprehensive benchmark and code base for mutlimodal recommendations.
+* \[2026.04]🎯\[Update]: We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 270 | 🐛 0 | 🌐 Python | 📅 2026-05-08 as a comprehensive benchmark and code base for mutlimodal recommendations.
 * \[2026.04]🎯\[Update]: Add papers related to **AAAI 2026**.
 * \[2026.03]🎯\[Update]: Add papers related to **KDD 2026 Round1**, **Information Fusion 2026**, and **TORS 2026**.
 * \[2025.12]🎯\[Update]: Add papers related to **NeurIPS 2025**, **RecSys 2025**, and **TOIS 2025**.
@@ -43,7 +43,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 
 ## 🔧 MRLib: Multimodal Recommendation Library
 
-We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 263 | 🐛 0 | 🌐 Python | 📅 2026-05-08: A Continuously Updated Library for Advanced Models for Multimodal Recommendation.
+We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 270 | 🐛 0 | 🌐 Python | 📅 2026-05-08: A Continuously Updated Library for Advanced Models for Multimodal Recommendation.
 
 **We will continuously update MRLib with highly reproducible models from the latest papers on multimodal recommendation.**
 
@@ -57,7 +57,7 @@ We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-L
 | VMCF         | 2017 | WWW         | [link](https://dl.acm.org/doi/10.1145/3038912.3052581)                                                                                                                                                                                                                | :question:                                                                                                                             |
 | ACF          | 2017 | WWW         | [link](https://dl.acm.org/doi/10.1145/3077136.3080797)                                                                                                                                                                                                                | [code](https://github.com/ChenJingyuan91/ACF) ⭐ 71 \| 🐛 4 \| 🌐 Python \| 📅 2017-11-27                                               |
 | JRL          | 2017 | CIKM        | [link](https://dl.acm.org/doi/10.1145/3132847.3132892)                                                                                                                                                                                                                | [code](https://github.com/QingyaoAi/Joint-Representation-Learning-for-Top-N-Recommendation) ⭐ 23 \| 🐛 0 \| 🌐 Python \| 📅 2018-05-01 |
-| DVBPR        | 2017 | ICDM        | [link](https://arxiv.org/pdf/1711.02231)                                                                                                                                                                                                                              | [code](https://github.com/kang205/DVBPR) ⭐ 196 \| 🐛 4 \| 🌐 Python \| 📅 2018-10-23                                                   |
+| DVBPR        | 2017 | ICDM        | [link](https://arxiv.org/pdf/1711.02231)                                                                                                                                                                                                                              | [code](https://github.com/kang205/DVBPR) ⭐ 195 \| 🐛 4 \| 🌐 Python \| 📅 2018-10-23                                                   |
 | GraphCAR     | 2018 | SIGIR       | [link](https://dl.acm.org/doi/10.1145/3209978.3210117)                                                                                                                                                                                                                | :question:                                                                                                                             |
 | VECF         | 2019 | SIGIR       | [link](https://dl.acm.org/doi/10.1145/3331184.3331254)                                                                                                                                                                                                                | [code](https://github.com/malizheng/VECF) ⭐ 17 \| 🐛 0 \| 🌐 Python \| 📅 2019-02-06                                                   |
 | UVCAN        | 2019 | WWW         | [link](https://dl.acm.org/doi/10.1145/3308558.3313513)                                                                                                                                                                                                                | :question:                                                                                                                             |
@@ -171,4 +171,4 @@ We sorted all multimodal recommendation datasets based on scale size.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
