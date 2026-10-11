@@ -764,7 +764,7 @@
             "open_issues": 1,
             "owner": "HKUDS",
             "repo": "PromptMM",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "collaborative-filtering",
               "knowledge-distillation",
@@ -1136,7 +1136,7 @@
             "open_issues": 3,
             "owner": "ptkjw1997",
             "repo": "DGMRec",
-            "stars": 40,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1251,7 +1251,7 @@
             "open_issues": 0,
             "owner": "llm-ml",
             "repo": "SSR",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:14:07.736Z",
+    "last_updated": "2026-10-11T07:16:40.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
@@ -1468,7 +1468,7 @@
       "open_issues": 0,
       "owner": "Jinfeng-Xu",
       "repo": "Awesome-Multimodal-Recommender-Systems",
-      "stars": 378,
+      "stars": 385,
       "topics": [
         "awesome",
         "awesome-list",
