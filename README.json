@@ -195,7 +195,7 @@
             "open_issues": 5,
             "owner": "zltao",
             "repo": "MGAT",
-            "stars": 60,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1377,7 +1377,7 @@
             "open_issues": 0,
             "owner": "recomall",
             "repo": "MSCA",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "contrastive-learning",
               "multimedia-recommendation",
@@ -1456,7 +1456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T07:16:40.046Z",
+    "last_updated": "2026-10-12T07:26:28.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
@@ -1468,7 +1468,7 @@
       "open_issues": 0,
       "owner": "Jinfeng-Xu",
       "repo": "Awesome-Multimodal-Recommender-Systems",
-      "stars": 385,
+      "stars": 392,
       "topics": [
         "awesome",
         "awesome-list",
