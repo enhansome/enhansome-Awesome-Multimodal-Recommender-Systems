@@ -1450,13 +1450,76 @@
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Orthorec",
+          "description": "2026 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1353974357,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-09-03T02:07:58Z",
+            "open_issues": 1,
+            "owner": "Camilla-jl",
+            "repo": "Orthorec",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T07:47:27.486Z"
+        },
+        {
+          "node_type": "item",
+          "title": "IIMRec",
+          "description": "2026 MM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ACM MM'26] One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation",
+            "homepage": "https://arxiv.org/pdf/2607.24607",
+            "id": 1197495974,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-08-06T03:25:36Z",
+            "open_issues": 0,
+            "owner": "Jinfeng-Xu",
+            "repo": "IIMRec",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T07:47:27.486Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AMUR",
+          "description": "2026 CIKM link code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 963856053,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-05-23T11:58:09Z",
+            "open_issues": 0,
+            "owner": "Wenze1",
+            "repo": "AMUR",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T07:47:27.486Z"
         }
       ],
       "title": "📊 Paper List"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T07:26:28.914Z",
+    "last_updated": "2026-10-13T07:47:27.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
@@ -1464,11 +1527,11 @@
       "id": 908847810,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-07T20:59:17Z",
+      "last_commit": "2026-10-12T09:16:52Z",
       "open_issues": 0,
       "owner": "Jinfeng-Xu",
       "repo": "Awesome-Multimodal-Recommender-Systems",
-      "stars": 392,
+      "stars": 402,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1476,7 +1539,7 @@
         "recommendation"
       ]
     },
-    "original_repository_sha": "24eab1feb19e1772decac9c62be9d28a77a2bea1",
+    "original_repository_sha": "c906178fff07cc7c4f8297dc2a4a45285580b840",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Recommender-Systems",
     "enhanced_repository_description": null,
     "title": "Awesome Multimodal Recommender Systems with stars"

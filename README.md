@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="image/logo.png" alt="" width="64" style="vertical-align: middle;">&nbsp; A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions</h1>
 
-> 📢📢📢  For many works, the reproduction results deviate significantly from what is reported in the papers. We will keep updating [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 311 | 🐛 0 | 🌐 Python | 📅 2026-05-08 with works that show satisfactory reproducibility. If you have a work you'd like to see included in [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 311 | 🐛 0 | 🌐 Python | 📅 2026-05-08, please contribute!
+> 📢📢📢  For many works, the reproduction results deviate significantly from what is reported in the papers. We will keep updating [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 318 | 🐛 0 | 🌐 Python | 📅 2026-10-12 with works that show satisfactory reproducibility. If you have a work you'd like to see included in [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 318 | 🐛 0 | 🌐 Python | 📅 2026-10-12, please contribute!
 
 ## 🚀 Overview
 
@@ -31,9 +31,10 @@ If you find this repository helpful to your work, please kindly star it and cite
 
 ## 🎉 News
 
+* \[2026.10]🎯\[Update]: Add papers related to **MM 2026** and **CIKM 2026**.
 * \[2026.08]🎯\[Update]: Add papers related to **SIGIR 2026**.
 * \[2026.05]🎯\[Update]: Add papers related to **SIGIR 2026** and **TMM 2026**.
-* \[2026.04]🎯\[Update]: We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 311 | 🐛 0 | 🌐 Python | 📅 2026-05-08 as a comprehensive benchmark and code base for mutlimodal recommendations.
+* \[2026.04]🎯\[Update]: We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 318 | 🐛 0 | 🌐 Python | 📅 2026-10-12 as a comprehensive benchmark and code base for mutlimodal recommendations.
 * \[2026.04]🎯\[Update]: Add papers related to **AAAI 2026**.
 * \[2026.03]🎯\[Update]: Add papers related to **KDD 2026 Round1**, **Information Fusion 2026**, and **TORS 2026**.
 * \[2025.12]🎯\[Update]: Add papers related to **NeurIPS 2025**, **RecSys 2025**, and **TOIS 2025**.
@@ -43,7 +44,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 
 ## 🔧 MRLib: Multimodal Recommendation Library
 
-We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 311 | 🐛 0 | 🌐 Python | 📅 2026-05-08: A Continuously Updated Library for Advanced Models for Multimodal Recommendation.
+We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) ⭐ 318 | 🐛 0 | 🌐 Python | 📅 2026-10-12: A Continuously Updated Library for Advanced Models for Multimodal Recommendation.
 
 **We will continuously update MRLib with highly reproducible models from the latest papers on multimodal recommendation.**
 
@@ -143,6 +144,9 @@ We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-L
 | GRE-MC       | 2026 | SIGIR       | [link](https://arxiv.org/pdf/2605.00670)                                                                                                                                                                                                                              | :question:                                                                                                                             |
 | PNGRec       | 2026 | SIGIR       | [link](https://dl.acm.org/doi/abs/10.1145/3805712.3809608)                                                                                                                                                                                                            | [code](https://github.com/orangeheyue/PNGRec) ⭐ 4 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-28                                                |
 | DIGEST       | 2026 | SIGIR       | [link](https://dl.acm.org/doi/abs/10.1145/3805712.3809642)                                                                                                                                                                                                            | :question:                                                                                                                             |
+| Orthorec     | 2026 | MM          | [link](https://arxiv.org/pdf/2609.02152)                                                                                                                                                                                                                              | [code](https://github.com/Camilla-jl/Orthorec) ⭐ 3 \| 🐛 1 \| 🌐 Python \| 📅 2026-09-03                                               |
+| IIMRec       | 2026 | MM          | [link](https://arxiv.org/pdf/2607.24607)                                                                                                                                                                                                                              | [code](https://github.com/Jinfeng-Xu/IIMRec) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-06                                                 |
+| AMUR         | 2026 | CIKM        | [link](https://arxiv.org/pdf/2608.27950)                                                                                                                                                                                                                              | [code](https://github.com/Wenze1/AMUR) ⭐ 0 \| 🐛 0 \| 🌐 Python \| 📅 2026-05-23                                                       |
 
 ## 📂 Dataset
 
@@ -171,4 +175,4 @@ We sorted all multimodal recommendation datasets based on scale size.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
