@@ -1052,7 +1052,7 @@
             "open_issues": 0,
             "owner": "kennethorq",
             "repo": "SMORE",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1222,7 +1222,7 @@
             "id": 978212734,
             "language": "Python",
             "license": null,
-            "last_commit": "2025-07-24T16:04:54Z",
+            "last_commit": "2026-10-13T11:12:45Z",
             "open_issues": 0,
             "owner": "nickolat",
             "repo": "LLMRec_reproducibility",
@@ -1519,7 +1519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T07:47:27.486Z",
+    "last_updated": "2026-10-14T06:12:14.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
@@ -1531,7 +1531,7 @@
       "open_issues": 0,
       "owner": "Jinfeng-Xu",
       "repo": "Awesome-Multimodal-Recommender-Systems",
-      "stars": 402,
+      "stars": 363,
       "topics": [
         "awesome",
         "awesome-list",
