@@ -149,7 +149,7 @@
             "open_issues": 0,
             "owner": "iLearn-Lab",
             "repo": "MM19-MMGCN",
-            "stars": 328,
+            "stars": 327,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1377,7 +1377,7 @@
             "open_issues": 0,
             "owner": "recomall",
             "repo": "MSCA",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "contrastive-learning",
               "multimedia-recommendation",
@@ -1519,7 +1519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:56:26.452Z",
+    "last_updated": "2026-10-16T05:55:04.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
