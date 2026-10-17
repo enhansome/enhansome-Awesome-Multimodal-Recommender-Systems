@@ -1115,7 +1115,7 @@
             "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "COHESION",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1136,7 +1136,7 @@
             "open_issues": 3,
             "owner": "ptkjw1997",
             "repo": "DGMRec",
-            "stars": 42,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1519,7 +1519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T05:55:04.300Z",
+    "last_updated": "2026-10-17T05:38:51.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
