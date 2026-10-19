@@ -599,7 +599,7 @@
             "open_issues": 8,
             "owner": "HKUDS",
             "repo": "MMSSL",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "graph-neural-netowrks",
               "multi-modal-recommendation",
@@ -1094,7 +1094,7 @@
             "open_issues": 2,
             "owner": "JinLi-i",
             "repo": "MoDiCF",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1519,7 +1519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T05:59:58.880Z",
+    "last_updated": "2026-10-19T06:16:59.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
