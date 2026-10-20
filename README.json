@@ -599,7 +599,7 @@
             "open_issues": 8,
             "owner": "HKUDS",
             "repo": "MMSSL",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "graph-neural-netowrks",
               "multi-modal-recommendation",
@@ -734,7 +734,7 @@
             "open_issues": 16,
             "owner": "HKUDS",
             "repo": "LLMRec",
-            "stars": 534,
+            "stars": 535,
             "topics": [
               "colloborative-filtering",
               "content-based-recommendation",
@@ -1052,7 +1052,7 @@
             "open_issues": 0,
             "owner": "kennethorq",
             "repo": "SMORE",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1293,7 +1293,7 @@
             "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "LOBSTER",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1519,7 +1519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T06:16:59.512Z",
+    "last_updated": "2026-10-20T06:06:09.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
