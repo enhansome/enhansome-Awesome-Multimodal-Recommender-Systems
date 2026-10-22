@@ -1136,7 +1136,7 @@
             "open_issues": 3,
             "owner": "ptkjw1997",
             "repo": "DGMRec",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1251,7 +1251,7 @@
             "open_issues": 0,
             "owner": "llm-ml",
             "repo": "SSR",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1519,7 +1519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T06:05:46.796Z",
+    "last_updated": "2026-10-22T06:09:24.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
@@ -1531,7 +1531,7 @@
       "open_issues": 0,
       "owner": "Jinfeng-Xu",
       "repo": "Awesome-Multimodal-Recommender-Systems",
-      "stars": 366,
+      "stars": 365,
       "topics": [
         "awesome",
         "awesome-list",
