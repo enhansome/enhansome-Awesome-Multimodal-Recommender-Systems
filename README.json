@@ -1,12 +1,39 @@
 {
   "items": [
     {
-      "description": ":question: denotes cannot find implementation code.",
+      "description": ":question: denotes cannot find implementation code.\nWe use gold🥇, silver🥈 and bronze🥉 to represent the top three models in MRLib",
       "items": [
         {
           "node_type": "item",
+          "title": "Name",
+          "description": "Year Publication Paper Code Is included in MRLib",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Continuously Updated Library for Advanced Models for Multimodal Recommendation",
+            "homepage": null,
+            "id": 1206047644,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-12T11:07:24Z",
+            "open_issues": 1,
+            "owner": "Jinfeng-Xu",
+            "repo": "Multimodal-Recommendation-Library",
+            "stars": 322,
+            "topics": [
+              "deep-learning",
+              "multimedia-recommendation",
+              "multimodal",
+              "multimodal-recommendation",
+              "recommendation"
+            ]
+          },
+          "first_seen": "2026-10-27T06:22:43.979Z"
+        },
+        {
+          "node_type": "item",
           "title": "VBPR",
-          "description": "2016 AAAI link code",
+          "description": "2016 AAAI link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +54,7 @@
         {
           "node_type": "item",
           "title": "ACF",
-          "description": "2017 WWW link code",
+          "description": "2017 WWW link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +75,7 @@
         {
           "node_type": "item",
           "title": "JRL",
-          "description": "2017 CIKM link code",
+          "description": "2017 CIKM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -69,7 +96,7 @@
         {
           "node_type": "item",
           "title": "DVBPR",
-          "description": "2017 ICDM link code",
+          "description": "2017 ICDM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -94,7 +121,7 @@
         {
           "node_type": "item",
           "title": "VECF",
-          "description": "2019 SIGIR link code",
+          "description": "2019 SIGIR link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -115,7 +142,7 @@
         {
           "node_type": "item",
           "title": "MAML",
-          "description": "2019 MM link code",
+          "description": "2019 MM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -136,7 +163,7 @@
         {
           "node_type": "item",
           "title": "MMGCN",
-          "description": "2019 MM link code",
+          "description": "2019 MM link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -157,7 +184,7 @@
         {
           "node_type": "item",
           "title": "AMR",
-          "description": "2019 TKDE link code",
+          "description": "2019 TKDE link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -182,7 +209,7 @@
         {
           "node_type": "item",
           "title": "MGAT",
-          "description": "2020 I&M link code",
+          "description": "2020 I&M link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -203,7 +230,7 @@
         {
           "node_type": "item",
           "title": "GRCN",
-          "description": "2020 MM link code",
+          "description": "2020 MM link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -224,7 +251,7 @@
         {
           "node_type": "item",
           "title": "MKGAT",
-          "description": "2020 CIKM link code",
+          "description": "2020 CIKM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,7 +272,7 @@
         {
           "node_type": "item",
           "title": "IMRec",
-          "description": "2021 MM link code",
+          "description": "2021 MM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +293,7 @@
         {
           "node_type": "item",
           "title": "PMGT",
-          "description": "2021 MM link code",
+          "description": "2021 MM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -295,7 +322,7 @@
         {
           "node_type": "item",
           "title": "LATTICE",
-          "description": "2021 MM link code",
+          "description": "2021 MM link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -323,7 +350,7 @@
         {
           "node_type": "item",
           "title": "MVGAE",
-          "description": "2021 TMM link code",
+          "description": "2021 TMM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -344,7 +371,7 @@
         {
           "node_type": "item",
           "title": "DualGNN",
-          "description": "2021 TMM link code",
+          "description": "2021 TMM link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,7 +392,7 @@
         {
           "node_type": "item",
           "title": "PAMD",
-          "description": "2022 WWW link code",
+          "description": "2022 WWW link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,7 +413,7 @@
         {
           "node_type": "item",
           "title": "MMGCL",
-          "description": "2022 SIGIR link code",
+          "description": "2022 SIGIR link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -407,7 +434,7 @@
         {
           "node_type": "item",
           "title": "ADDVAE",
-          "description": "2022 KDD link code",
+          "description": "2022 KDD link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -428,7 +455,7 @@
         {
           "node_type": "item",
           "title": "EliMRec",
-          "description": "2022 MM link code",
+          "description": "2022 MM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -449,7 +476,7 @@
         {
           "node_type": "item",
           "title": "EgoGCN",
-          "description": "2022 MM link code",
+          "description": "2022 MM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,7 +497,7 @@
         {
           "node_type": "item",
           "title": "InvRL",
-          "description": "2022 MM link code",
+          "description": "2022 MM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -491,7 +518,7 @@
         {
           "node_type": "item",
           "title": "DMRL",
-          "description": "2022 TMM link code",
+          "description": "2022 TMM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -512,7 +539,7 @@
         {
           "node_type": "item",
           "title": "SLMRec",
-          "description": "2022 TMM link code",
+          "description": "2022 TMM link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -533,7 +560,7 @@
         {
           "node_type": "item",
           "title": "MICRO",
-          "description": "2022 TKDE link code",
+          "description": "2022 TKDE link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,7 +587,7 @@
         {
           "node_type": "item",
           "title": "BM3",
-          "description": "2023 WWW link code",
+          "description": "2023 WWW link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -570,7 +597,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2023-08-03T01:31:35Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "enoche",
             "repo": "BM3",
             "stars": 67,
@@ -586,7 +613,7 @@
         {
           "node_type": "item",
           "title": "MMSSL",
-          "description": "2023 WWW link code",
+          "description": "2023 WWW link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -612,7 +639,7 @@
         {
           "node_type": "item",
           "title": "FREEDOM",
-          "description": "2023 MM link code",
+          "description": "2023 MM link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -637,7 +664,7 @@
         {
           "node_type": "item",
           "title": "MGCN",
-          "description": "2023 MM link code",
+          "description": "2023 MM link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -658,7 +685,7 @@
         {
           "node_type": "item",
           "title": "DRAGON",
-          "description": "2023 ECAI link code",
+          "description": "2023 ECAI link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -679,7 +706,7 @@
         {
           "node_type": "item",
           "title": "MGCL",
-          "description": "2023 TMM link code",
+          "description": "2023 TMM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -700,7 +727,7 @@
         {
           "node_type": "item",
           "title": "LGMRec",
-          "description": "2024 AAAI link code",
+          "description": "2024 AAAI link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -721,7 +748,7 @@
         {
           "node_type": "item",
           "title": "LLMRec",
-          "description": "2024 WSDM link code",
+          "description": "2024 WSDM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -751,7 +778,7 @@
         {
           "node_type": "item",
           "title": "PromptMM",
-          "description": "2024 WWW link code",
+          "description": "2024 WWW link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -779,7 +806,7 @@
         {
           "node_type": "item",
           "title": "MCDRec",
-          "description": "2024 WWW link code",
+          "description": "2024 WWW link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -800,7 +827,7 @@
         {
           "node_type": "item",
           "title": "DA-MRS",
-          "description": "2024 KDD link code",
+          "description": "2024 KDD link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -821,7 +848,7 @@
         {
           "node_type": "item",
           "title": "DiffMM",
-          "description": "2024 MM link code",
+          "description": "2024 MM link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -850,7 +877,7 @@
         {
           "node_type": "item",
           "title": "SOIL",
-          "description": "2024 MM link code",
+          "description": "2024 MM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -871,7 +898,7 @@
         {
           "node_type": "item",
           "title": "CKD",
-          "description": "2024 MM link code",
+          "description": "2024 MM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -892,7 +919,7 @@
         {
           "node_type": "item",
           "title": "GUME",
-          "description": "2024 CIKM link code",
+          "description": "2024 CIKM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -913,7 +940,7 @@
         {
           "node_type": "item",
           "title": "POWERec",
-          "description": "2024 INFFUS link code",
+          "description": "2024 INFFUS link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -934,7 +961,7 @@
         {
           "node_type": "item",
           "title": "DGVAE",
-          "description": "2024 TMM link code",
+          "description": "2024 TMM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -955,7 +982,7 @@
         {
           "node_type": "item",
           "title": "MENTOR",
-          "description": "2025 AAAI link code",
+          "description": "2025 AAAI link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -976,7 +1003,7 @@
         {
           "node_type": "item",
           "title": "PGL",
-          "description": "2025 AAAI link code",
+          "description": "2025 AAAI link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -997,7 +1024,7 @@
         {
           "node_type": "item",
           "title": "BeFA",
-          "description": "2025 AAAI link code",
+          "description": "2025 AAAI link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1018,7 +1045,7 @@
         {
           "node_type": "item",
           "title": "CMDL",
-          "description": "2025 TOIS link code",
+          "description": "2025 TOIS link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1039,7 +1066,7 @@
         {
           "node_type": "item",
           "title": "SMORE",
-          "description": "2025 WSDM link code",
+          "description": "2025 WSDM link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1060,7 +1087,7 @@
         {
           "node_type": "item",
           "title": "Guider",
-          "description": "2025 WSDM link code",
+          "description": "2025 WSDM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1081,7 +1108,7 @@
         {
           "node_type": "item",
           "title": "MoDiCF",
-          "description": "2025 WWW link code",
+          "description": "2025 WWW link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1101,8 +1128,8 @@
         },
         {
           "node_type": "item",
-          "title": "COHESION",
-          "description": "2025 SIGIR link code",
+          "title": "🥉COHESION",
+          "description": "2025 SIGIR link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1123,7 +1150,7 @@
         {
           "node_type": "item",
           "title": "DGMRec",
-          "description": "2025 SIGIR link code",
+          "description": "2025 SIGIR link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1144,7 +1171,7 @@
         {
           "node_type": "item",
           "title": "MDVT",
-          "description": "2025 KDD link code",
+          "description": "2025 KDD link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1165,7 +1192,7 @@
         {
           "node_type": "item",
           "title": "HPMRec",
-          "description": "2025 CIKM link code",
+          "description": "2025 CIKM link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1186,7 +1213,7 @@
         {
           "node_type": "item",
           "title": "MambaRec",
-          "description": "2025 CIKM link code",
+          "description": "2025 CIKM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1213,7 +1240,7 @@
         {
           "node_type": "item",
           "title": "Study4LLMRec",
-          "description": "2025 RecSys link code",
+          "description": "2025 RecSys link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1238,7 +1265,7 @@
         {
           "node_type": "item",
           "title": "SSR",
-          "description": "2025 NeurIPS link code",
+          "description": "2025 NeurIPS link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1259,7 +1286,7 @@
         {
           "node_type": "item",
           "title": "VI-MMRec",
-          "description": "2026 KDD link code",
+          "description": "2026 KDD link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1280,7 +1307,7 @@
         {
           "node_type": "item",
           "title": "LOBSTER",
-          "description": "2026 INFFUS link code",
+          "description": "2026 INFFUS link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1301,7 +1328,7 @@
         {
           "node_type": "item",
           "title": "NLGCL+",
-          "description": "2026 TORS link code",
+          "description": "2026 TORS link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1322,7 +1349,7 @@
         {
           "node_type": "item",
           "title": "SiMGR",
-          "description": "2026 AAAI link code",
+          "description": "2026 AAAI link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1343,7 +1370,7 @@
         {
           "node_type": "item",
           "title": "M2VAE",
-          "description": "2026 AAAI link code",
+          "description": "2026 AAAI link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1363,8 +1390,8 @@
         },
         {
           "node_type": "item",
-          "title": "MSCA",
-          "description": "2026 WWW link code",
+          "title": "🥈MSCA",
+          "description": "2026 WWW link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1391,7 +1418,7 @@
         {
           "node_type": "item",
           "title": "HSD",
-          "description": "2026 TMM link code",
+          "description": "2026 TMM link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1412,7 +1439,7 @@
         {
           "node_type": "item",
           "title": "SG-URInit",
-          "description": "2026 SIGIR link code",
+          "description": "2026 SIGIR link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1433,7 +1460,7 @@
         {
           "node_type": "item",
           "title": "PNGRec",
-          "description": "2026 SIGIR link code",
+          "description": "2026 SIGIR link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1454,7 +1481,7 @@
         {
           "node_type": "item",
           "title": "Orthorec",
-          "description": "2026 MM link code",
+          "description": "2026 MM link code ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1474,8 +1501,8 @@
         },
         {
           "node_type": "item",
-          "title": "IIMRec",
-          "description": "2026 MM link code",
+          "title": "🥇IIMRec",
+          "description": "2026 MM link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1496,7 +1523,7 @@
         {
           "node_type": "item",
           "title": "AMUR",
-          "description": "2026 CIKM link code",
+          "description": "2026 CIKM link code :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1519,7 +1546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T06:21:52.525Z",
+    "last_updated": "2026-10-27T06:22:43.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
@@ -1527,11 +1554,11 @@
       "id": 908847810,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-12T09:16:52Z",
+      "last_commit": "2026-10-27T05:17:24Z",
       "open_issues": 0,
       "owner": "Jinfeng-Xu",
       "repo": "Awesome-Multimodal-Recommender-Systems",
-      "stars": 366,
+      "stars": 367,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1539,7 +1566,7 @@
         "recommendation"
       ]
     },
-    "original_repository_sha": "c906178fff07cc7c4f8297dc2a4a45285580b840",
+    "original_repository_sha": "07a5b2d77b79416f9602cbecd33a976a87eeb96c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Recommender-Systems",
     "enhanced_repository_description": null,
     "title": "Awesome Multimodal Recommender Systems with stars"
