@@ -15,7 +15,7 @@
             "id": 1206047644,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T08:55:46Z",
+            "last_commit": "2026-10-29T08:01:57Z",
             "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "Multimodal-Recommendation-Library",
@@ -995,7 +995,7 @@
             "open_issues": 1,
             "owner": "Jinfeng-Xu",
             "repo": "MENTOR",
-            "stars": 49,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1142,7 +1142,7 @@
             "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "COHESION",
-            "stars": 18,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1515,7 +1515,7 @@
             "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "IIMRec",
-            "stars": 10,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-10-13T07:47:27.486Z"
@@ -1546,7 +1546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T07:11:33.637Z",
+    "last_updated": "2026-10-30T07:14:49.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
