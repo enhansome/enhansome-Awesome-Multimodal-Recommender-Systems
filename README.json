@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "Multimodal-Recommendation-Library",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "deep-learning",
               "multimedia-recommendation",
@@ -995,7 +995,7 @@
             "open_issues": 1,
             "owner": "Jinfeng-Xu",
             "repo": "MENTOR",
-            "stars": 65,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1142,7 +1142,7 @@
             "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "COHESION",
-            "stars": 37,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1515,7 +1515,7 @@
             "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "IIMRec",
-            "stars": 23,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-10-13T07:47:27.486Z"
@@ -1546,7 +1546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T07:03:48.940Z",
+    "last_updated": "2026-11-01T07:37:36.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
