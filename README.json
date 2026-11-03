@@ -740,7 +740,7 @@
             "open_issues": 3,
             "owner": "georgeguo-cn",
             "repo": "LGMRec",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -761,7 +761,7 @@
             "open_issues": 16,
             "owner": "HKUDS",
             "repo": "LLMRec",
-            "stars": 535,
+            "stars": 536,
             "topics": [
               "colloborative-filtering",
               "content-based-recommendation",
@@ -1341,7 +1341,7 @@
             "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "NLGCL-Plus",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1515,7 +1515,7 @@
             "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "IIMRec",
-            "stars": 39,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-10-13T07:47:27.486Z"
@@ -1546,7 +1546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T07:44:26.649Z",
+    "last_updated": "2026-11-03T07:58:27.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
