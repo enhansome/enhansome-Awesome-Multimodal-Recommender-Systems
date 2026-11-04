@@ -840,7 +840,7 @@
             "open_issues": 0,
             "owner": "XMUDM",
             "repo": "DA-MRS",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1121,7 +1121,7 @@
             "open_issues": 2,
             "owner": "JinLi-i",
             "repo": "MoDiCF",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1278,7 +1278,7 @@
             "open_issues": 0,
             "owner": "llm-ml",
             "repo": "SSR",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1546,7 +1546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T07:58:27.481Z",
+    "last_updated": "2026-11-04T07:32:56.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
