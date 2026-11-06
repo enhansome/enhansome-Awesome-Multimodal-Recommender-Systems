@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "demonph10",
             "repo": "MGCN",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:14.638Z"
@@ -1546,7 +1546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:56:49.531Z",
+    "last_updated": "2026-11-06T07:58:34.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
