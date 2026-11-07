@@ -761,7 +761,7 @@
             "open_issues": 16,
             "owner": "HKUDS",
             "repo": "LLMRec",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "colloborative-filtering",
               "content-based-recommendation",
@@ -1494,7 +1494,7 @@
             "open_issues": 1,
             "owner": "Camilla-jl",
             "repo": "Orthorec",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-10-13T07:47:27.486Z"
@@ -1546,7 +1546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T07:58:34.176Z",
+    "last_updated": "2026-11-07T07:16:07.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
