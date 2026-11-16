@@ -1515,7 +1515,7 @@
             "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "IIMRec",
-            "stars": 42,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-10-13T07:47:27.486Z"
@@ -1546,7 +1546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:54:54.739Z",
+    "last_updated": "2026-11-16T08:02:40.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
