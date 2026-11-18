@@ -1404,7 +1404,7 @@
             "open_issues": 0,
             "owner": "recomall",
             "repo": "MSCA",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "contrastive-learning",
               "multimedia-recommendation",
@@ -1546,7 +1546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:16:49.625Z",
+    "last_updated": "2026-11-18T08:36:12.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
