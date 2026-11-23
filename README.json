@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Jinfeng-Xu",
             "repo": "Multimodal-Recommendation-Library",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "deep-learning",
               "multimedia-recommendation",
@@ -1546,7 +1546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T08:04:36.761Z",
+    "last_updated": "2026-11-23T09:11:32.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMM'26] Continuously Updated Awesome Multimodal Recommendation Paper List",
